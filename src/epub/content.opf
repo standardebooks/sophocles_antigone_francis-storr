@@ -53,10 +53,9 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31</dc:source>
 		<dc:source>https://archive.org/details/sophoclesstor01sophuoft</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Antigone</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Antigone_(Sophocles_play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/sophocles_antigone_francis-storr</meta>
 		<dc:creator id="author">Sophocles</dc:creator>
 		<meta property="file-as" refines="#author">Sophocles</meta>
