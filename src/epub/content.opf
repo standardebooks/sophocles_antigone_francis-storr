@@ -48,7 +48,7 @@
 		<meta property="group-position" refines="#collection-1">3</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:abstract>A young woman defies the king’s decree to honor her brother with a proper burial.</dc:abstract>
+		<meta property="schema:abstract">A young woman defies the king’s decree to honor her brother with a proper burial.</meta>
 		<dc:description>
 			&lt;p&gt;The last of the &lt;a href="https://standardebooks.org/collections/the-theban-plays"&gt;Theban Plays&lt;/a&gt; tells the story of Antigone, the daughter of Oedipus. She defies the orders of her uncle, King Creon, who has declared her brother Polynices a traitor and forbids his burial after he dies in battle. Driven by her religious duty and love for her family, Antigone secretly buries him. Her actions lead to her arrest, and despite Creon’s attempts to persuade her with threats and promises, Antigone remains steadfast in her beliefs. The tension between the laws of the state and divine law escalates as the story progresses, culminating in tragic consequences; in the end, Creon comes to a painful realization about the devastating cost of his pride and stubbornness.&lt;/p&gt;
 		</dc:description>
