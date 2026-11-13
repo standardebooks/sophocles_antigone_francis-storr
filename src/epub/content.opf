@@ -72,8 +72,8 @@
 		<link href="https://id.loc.gov/authorities/names/n83130003.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">win</meta>
-		<dc:contributor id="artist">Frederick Leighton</dc:contributor>
-		<meta property="file-as" refines="#artist">Leighton, Frederick</meta>
+		<dc:contributor id="artist">Frederic Leighton</dc:contributor>
+		<meta property="file-as" refines="#artist">Leighton, Frederic</meta>
 		<link href="https://en.wikipedia.org/wiki/Frederic_Leighton" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80079496.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
